@@ -1,0 +1,55 @@
+/* style.css */
+.container, .container-fluid {
+	background-color : #ffffff;
+}
+
+.row {
+	margin-bottom: 0px;
+}
+
+[class*="col-"], header, footer, nav, aside, section, div[role="main"] {
+	/*background-color : #ffffff;*/
+	border: 1px solid #ddd;
+	text-align: center;
+}
+
+div[role="main"] {
+	background-color : #ffffff;
+}
+
+div[role="main"], nav, aside {
+	height: 600px;
+}
+
+header {
+	border: 2px solid #ffffff;
+	background-color: #ddd
+}
+.barra{
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.geral{
+	background-image: url('../img/metal-fundo.jpg');
+	background-size:100% auto;
+	background-attachment: fixed;
+}
+
+
+
+.logo{
+	text-align: center;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.img-thumbnail{
+	border: 3px solid #ddd;
+}
+
+footer {
+	padding-left: 35 px;
+	padding-right: 35 px;
+	padding-top: 35 px;
+	padding-bottom: 35 px;
+}
