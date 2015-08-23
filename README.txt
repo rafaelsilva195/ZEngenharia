@@ -1,5 +1,5 @@
-1º site feito pela possível ZUUM Enterprize
+Site feito pela empresa fictícia ZUUM Enterprize.
 
-Site empresarial da empresa ZEngenharia.
+Site feita para a empresa Z Engenharia.
 
-No site será feito em HTML5, CSS3 e JavaScript, para o auxilio do CSS3 eu usarei BootStrap.
+A hospedagem é feita pela ycorn.com.br
