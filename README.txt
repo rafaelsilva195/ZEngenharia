@@ -3,4 +3,5 @@ A hospedagem é feita pela ycorn.com.br, que utiliza o cPanel.
 Para a programação foi utilizado HTML, CSS e Pearl, sendo o front-end contruído com base em BootStrap v3.3.5.
 
 
-Letra fonte do logo-Cabeçalho:Cambria Negito-Itálico.
+Letra fonte do logo-Cabeçalho:Cambria Negrito-Itálico.
+Letra fonte do cartão:Colona MT Negrito-Itálico.
